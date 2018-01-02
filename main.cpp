@@ -1,6 +1,10 @@
+#include <iostream>
+#include <string>
+#include <fstream>
+#include <stdio.h>
+#include <stdlib.h>
 
+int main(int argc, char const *argv[]) {
 
-int int main(int argc, char const *argv[]) {
-  
   return 0;
 }
